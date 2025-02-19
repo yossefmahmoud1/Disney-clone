@@ -1,5 +1,5 @@
 import pixar from '../assets/images/pixar.png'
-import starwar from '../assets/Images/starwar.png'
+import starwar from '../assets/images/starwar.png'
 import disney from '../assets/images/disney.png'
 import marvel from '../assets/images/marvel.png'
 import nationalG from '../assets/images/nationalG.png'
